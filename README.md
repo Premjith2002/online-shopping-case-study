@@ -21,6 +21,6 @@ This case study analyzes online shopping behavior using **SQL, Python, and Excel
 3. **Explore the findings** in the case study  
 
 ## **📢 Contribute & Connect**  
-Have ideas or feedback? Open an issue or connect with me on **LinkedIn**: [Your LinkedIn Profile]  
+Have ideas or feedback? Open an issue or connect with me on **LinkedIn**: [www.linkedin.com/in/premjith-murella-503716226]  
 
 #Ecommerce #DataAnalysis #SQL #Python #ConsumerBehavior #BusinessAnalytics  
